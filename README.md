@@ -1,4 +1,4 @@
-# KasimAhmad.github.io
+# [KasimAhmad.github.io](https://kasimahmad.github.io/)
 ### Latitude - Latitude Analysis Dashboard with Attitude
 + Created a visualization dashboard website using html, css, and bootstrap in order to create 7 different pages:<br>
   - A [Landing Page](https://github.com/KasimAhmad/KasimAhmad.github.io/blob/main/index.html) containing:<br>
